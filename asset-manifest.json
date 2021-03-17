@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/CrpytoCurrencyTracker-FrontEnd/static/css/main.8aafccc5.chunk.css",
+    "main.js": "/CrpytoCurrencyTracker-FrontEnd/static/js/main.9c27466d.chunk.js",
+    "main.js.map": "/CrpytoCurrencyTracker-FrontEnd/static/js/main.9c27466d.chunk.js.map",
+    "runtime-main.js": "/CrpytoCurrencyTracker-FrontEnd/static/js/runtime-main.98bbc2d7.js",
+    "runtime-main.js.map": "/CrpytoCurrencyTracker-FrontEnd/static/js/runtime-main.98bbc2d7.js.map",
+    "static/js/2.84a9e4e7.chunk.js": "/CrpytoCurrencyTracker-FrontEnd/static/js/2.84a9e4e7.chunk.js",
+    "static/js/2.84a9e4e7.chunk.js.map": "/CrpytoCurrencyTracker-FrontEnd/static/js/2.84a9e4e7.chunk.js.map",
+    "index.html": "/CrpytoCurrencyTracker-FrontEnd/index.html",
+    "static/css/main.8aafccc5.chunk.css.map": "/CrpytoCurrencyTracker-FrontEnd/static/css/main.8aafccc5.chunk.css.map",
+    "static/js/2.84a9e4e7.chunk.js.LICENSE.txt": "/CrpytoCurrencyTracker-FrontEnd/static/js/2.84a9e4e7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.98bbc2d7.js",
+    "static/js/2.84a9e4e7.chunk.js",
+    "static/css/main.8aafccc5.chunk.css",
+    "static/js/main.9c27466d.chunk.js"
+  ]
+}
